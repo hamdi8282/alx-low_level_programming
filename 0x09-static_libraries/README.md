@@ -1,0 +1,3 @@
+c - static libraries
+
+TASKS
